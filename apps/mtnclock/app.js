@@ -348,4 +348,5 @@ function queueDraw() {
 
 queueDraw();
 setWeather();
+Bangle.loadWidgets();
 Bangle.setUI("clock");
